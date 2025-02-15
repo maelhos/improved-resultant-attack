@@ -1,0 +1,3 @@
+[submodule "ntl"]
+	path = ntl
+	url = git@github.com:libntl/ntl.git

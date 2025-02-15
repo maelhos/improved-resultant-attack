@@ -1,0 +1,4 @@
+.vscode/
+attack
+**/__pycache__
+**/build/
