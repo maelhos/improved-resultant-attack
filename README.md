@@ -10,7 +10,7 @@ Building this project requires *g++*, *GMP* and *libssl-dev* as well as a workin
 First clone the repo with the submodule :
 
 ```bash
-git clone --recurse-submodules https://github.com/maelhos/polymerize.git
+git clone --recurse-submodules https://github.com/maelhos/improved-resultant-attack.git
 ```
 
 **Note that if you downloaded this repo as a zip or didn't use `--recurse-submodules` you must manually run `git clone https://github.com/libntl/ntl.git` in the main directory.**
